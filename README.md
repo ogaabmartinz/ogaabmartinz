@@ -5,9 +5,9 @@
 Construindo soluções web, aprendendo na prática e evoluindo um projeto
 de cada vez.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL/)
-[![E-mail](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/SEU-USUARIO](https://github.com/ogaabmartinz))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-PERFIL/](https://www.linkedin.com/in/gabriel-martins-a72506186/))
+[![E-mail](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpereiramartins49@gmail.com)
 
 ------------------------------------------------------------------------
 
@@ -41,44 +41,23 @@ portfólio.
 
 ### Front-End
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />`{=html}
-`<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />`{=html}
-`<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />`{=html}
-```{=html}
-</p>
-```
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
 ### Back-End
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />`{=html}
-```{=html}
-</p>
-```
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
 ### Banco de dados
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Bancos_de_dados-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="Bancos de dados" />`{=html}
-```{=html}
-</p>
-```
+<img src="https://img.shields.io/badge/Bancos_de_dados-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="Bancos de dados" />
+
 ### Ferramentas
 
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
-`<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />`{=html}
-```{=html}
-</p>
-```
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
 
 ------------------------------------------------------------------------
 
@@ -94,21 +73,6 @@ meus repositórios para acompanhar minha evolução:
 utilizadas, instruções para executar, capturas de tela e, quando houver,
 um link para a aplicação publicada.
 
-------------------------------------------------------------------------
-
-## 📊 Estatísticas do GitHub
-
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />`{=html}
-:::
-
-::: {align="center"}
-`<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />`{=html}
-:::
-
-------------------------------------------------------------------------
-
 ## 🌱 Próximos passos
 
 -   [ ] Desenvolver e documentar projetos completos.
@@ -123,13 +87,6 @@ um link para a aplicação publicada.
 Se você conhece uma oportunidade júnior, quer trocar conhecimento ou
 colaborar em um projeto, entre em contato!
 
--   💼 LinkedIn: [meu perfil
-    profissional]([(https://www.linkedin.com/in/gabriel-martins-a72506186/)])
+-   💼 LinkedIn: <https://www.linkedin.com/in/gabriel-martins-a72506186/>
 -   ✉️ E-mail: <gabrielpereiramartins49@gmail.com>
--   🧑‍💻 GitHub: [meus repositórios]([https://github.com/SEU-USUARIO](https://github.com/ogaabmartinz))
-
-::: {align="center"}
-### 💡 "Aprender, praticar e evoluir --- um commit de cada vez."
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=100&section=footer" alt="Rodapé decorativo azul e escuro" />`{=html}
-:::
+-   🧑‍💻 GitHub: <https://github.com/SEU-USUARIO](https://github.com/ogaabmartinz>
